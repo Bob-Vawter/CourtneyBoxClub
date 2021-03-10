@@ -10,7 +10,7 @@ Mostly built off of HTML5up Template(stellar). Customized for use.
 
 ## Portfolio:
 
-https://bobvawter.nelify.app
+https://bobvawter.netlify.app
 
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
