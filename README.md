@@ -2,7 +2,7 @@
 Created to support a group that caters events to special need adults in the Eastern Shore Maryland Area.
 
 **Link to project:** https://courtneysboxclub.netlify.app/
-![alt tag](https://courtneysboxclub.netlify.app/images/pic04.jpg)
+![alt tag](https://bobvawter.netlify.app/images/banner.jpg)
 ## How It's Made:
 **Tech used:** HTML, CSS, JavaScript
 
